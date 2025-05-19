@@ -16,6 +16,7 @@ sdist/
 .venv/
 venv/
 env/
+.data/
 ENV/
 *.env
 
